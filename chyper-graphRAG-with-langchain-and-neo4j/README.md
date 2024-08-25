@@ -1,6 +1,6 @@
-# README
+# README - see the full project at https://github.com/YotamAflalo/chyper-graphRAG-with-langchain-and-neo4j
 
-## Project Overview
+## Project Overview - see the full project at https://github.com/YotamAflalo/chyper-graphRAG-with-langchain-and-neo4j
 
 The project is the creation of a chatbot focused on health and nutrition, based on a Neo4j knowledge base and books on health and nutrition. In the first phase of the project, the information in the books is translated into a knowledge graph using the langchain_experimental (graph_transformers package).
 
